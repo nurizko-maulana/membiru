@@ -1,0 +1,27 @@
+{
+  "name": "membiru-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nurizko-maulana/membiru-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nurizko-maulana/membiru-web/issues"
+  },
+  "homepage": "https://github.com/nurizko-maulana/membiru-web#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7"
+  },
+  "dependencies": {
+    "postcss-import": "^14.0.2"
+  }
+}
